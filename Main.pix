@@ -2,19 +2,19 @@
 <Script xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="i1" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/" xmlns="http://schemas.datacontract.org/2004/07/BR.Logic">
   <CompilationType>CSharp</CompilationType>
   <Description i:nil="true" />
-  <Id>c0fdc02e-6a96-44b9-b6f6-48a40ec42833</Id>
+  <Id>87822cb1-2ffd-4ae6-b37b-d483fc54a5cd</Id>
   <Logic z:Id="i2" i:type="ExecutedStep">
     <Childs>
       <AbstractStep z:Id="i3" i:type="CommentStep">
         <Childs />
-        <Id>3b99b937-a360-4679-9289-3b3c95fbadf0</Id>
+        <Id>80742c06-b984-42da-a593-34d38215bb78</Id>
         <Parent z:Ref="i2" />
         <PropertyValues />
         <SelectedOptionId i:nil="true" />
         <Text>Создать активность "Окно сообщения" с любым текстом</Text>
       </AbstractStep>
     </Childs>
-    <Id>3273e455-ee59-4ea5-9583-7cf490fe4343</Id>
+    <Id>915ca52a-bc21-4f9a-9221-856d30533603</Id>
     <Parent i:nil="true" />
     <PropertyValues />
     <SelectedOptionId i:nil="true" />
@@ -24,8 +24,9 @@
     <Text></Text>
     <_activityFullName>BR.Core.Base.Container</_activityFullName>
   </Logic>
-  <Name>Main.pix*</Name>
+  <Name>Main.pix</Name>
   <Namespaces xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
   <Params />
+  <Variables xmlns:d2p1="http://schemas.datacontract.org/2004/07/BR.Logic.Params" />
   <Version i:nil="true" />
 </Script>
