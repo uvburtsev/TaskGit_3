@@ -14,6 +14,28 @@
         <IsCollapsed>false</IsCollapsed>
         <Text>Создать активность "Окно сообщения" с любым текстом</Text>
       </AbstractStep>
+      <AbstractStep z:Id="i4" i:type="ExecutedStep">
+        <Childs />
+        <Id>912aff85-532c-4c9d-a63d-c4898a68f6b2</Id>
+        <Parent z:Ref="i2" />
+        <PropertyValues>
+          <PropertyValue z:Id="i5">
+            <PropertyName>Text</PropertyName>
+            <_dataType>Expression</_dataType>
+            <_expression>str_test</_expression>
+            <_screenShotBase64 i:nil="true" />
+            <_value i:nil="true" />
+            <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
+          </PropertyValue>
+        </PropertyValues>
+        <SelectedOptionId i:nil="true" />
+        <AutoCloseMode>None</AutoCloseMode>
+        <EnableStatus>true</EnableStatus>
+        <ExceptionHandlingMode>Default</ExceptionHandlingMode>
+        <RetryCount>-1</RetryCount>
+        <Text></Text>
+        <_activityFullName>Activities.Interactive.MessageBox</_activityFullName>
+      </AbstractStep>
     </Childs>
     <Id>915ca52a-bc21-4f9a-9221-856d30533603</Id>
     <Parent i:nil="true" />
@@ -29,7 +51,7 @@
   <Name>Main.pix</Name>
   <Namespaces xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
   <Params>
-    <Parameter z:Id="i4">
+    <Parameter z:Id="i6">
       <DefaultValueExpression>"Вычисть"</DefaultValueExpression>
       <Description></Description>
       <Name>str_test</Name>
