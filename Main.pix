@@ -13,7 +13,7 @@
           <PropertyValue z:Id="i4">
             <PropertyName>Text</PropertyName>
             <_dataType>Expression</_dataType>
-            <_expression>"AAaa"</_expression>
+            <_expression>text</_expression>
             <_screenShotBase64 i:nil="true" />
             <_value i:nil="true" />
             <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
